@@ -1,0 +1,18 @@
+name: video_precache
+description: A Flutter package for preloading and caching video URLs from Firebase Storage.
+version: 0.0.1
+homepage: https://github.com/yourusername/video_precache
+
+environment:
+  sdk: '>=2.18.0 <3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  firebase_storage: ^11.2.0
+  get_it: ^7.2.0 # Optional, for dependency injection
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  lint: ^2.0.0
