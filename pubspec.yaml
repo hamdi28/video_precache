@@ -9,7 +9,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  firebase_storage: ^11.2.0
+  firebase_storage: 11.0.7
   get_it: ^7.2.0 # Optional, for dependency injection
 
 dev_dependencies:
